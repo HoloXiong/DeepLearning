@@ -6,7 +6,7 @@
 ## 2.DenseNet with CIFAR10 Dataset by TensorFlow
 - 使用Tensorflow在CIFAR10数据集上实现DenseNet
 - DenseNet-41 and DenseNet-49
-- 对比keras实现的DenseNet预训练模型
+- 对比keras实现的DenseNet预训练模型并分析
 ## 3.Character-Level Recurrent Neural Network by PyTorch
 - Pytorch实现Character-Level RNN
 - 测试
